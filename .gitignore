@@ -132,6 +132,10 @@ venv.bak/
 llms/
 llms.bak/
 
+# VS Code project settings
+.vscode
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
